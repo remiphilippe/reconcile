@@ -1,0 +1,6 @@
+[openapi]
+endpoint = "https://tetration.cisco.com"
+key = "key"
+secret = "secret"
+# Shall we check the certificate
+verify = false

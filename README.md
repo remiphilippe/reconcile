@@ -4,6 +4,9 @@ Reconcile takes a CSV file as input and will check Tetration to see if the hosts
 ## Building
 `go build .`
 
+## Configuration
+Rename `conf/example.toml` to `conf/config.toml` and update your Tetration access configuration.
+
 ## Usage
 `./reconcile -input ./testdata/records.csv`
 
