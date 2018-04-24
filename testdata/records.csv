@@ -1,0 +1,8 @@
+﻿hostname,ip
+host1,1.1.1.1
+host1,1.1.1.2
+host2,2.2.2.1
+collectorDatamover-1,10.28.121.144
+collectorDatamover-2,1.1.0.81
+blabla,10.28.121.144
+collectorDatamover-4,10.28.121.139
