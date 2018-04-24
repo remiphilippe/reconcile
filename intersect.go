@@ -2,6 +2,7 @@ package main
 
 import "reflect"
 
+// Inspiration: https://github.com/juliangruber/go-intersect
 func intersect(a interface{}, b interface{}) interface{} {
 	set := make([]interface{}, 0)
 	hash := make(map[interface{}]bool)
